@@ -1,6 +1,0 @@
-co/com/choucair/certificacion/test/stepdefinitions/RegistroStepDefinition.java
- co.com.choucair.certificacion.test.stepdefinitions.RegistroStepDefinition
-co/com/choucair/certificacion/test/stepdefinitions/Hooks.java
- co.com.choucair.certificacion.test.stepdefinitions.Hooks
-co/com/choucair/certificacion/test/runners/RegistroRunner.java
- co.com.choucair.certificacion.test.runners.RegistroRunner

@@ -1,5 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="automationtesting" skipped="0" tests="1" time="21.05" timestamp="2022-01-11 06:58:17"><testcase name="Access the Web Automation Demo Site"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
-co.com.choucair.certificacion.test.tasks.Register.performAs(Register.java:18)&#13;
-co.com.choucair.certificacion.test.stepdefinitions.TestStepDefinitions.heMakesTheRegistrationOnThePage(TestStepDefinitions.java:26)&#13;
-cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
-</system-err></testcase></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="automationtesting" skipped="0" tests="1" time="15.61" timestamp="2022-01-11 09:14:06"><testcase name="Access the Web Automation Demo Site"/></testsuite>

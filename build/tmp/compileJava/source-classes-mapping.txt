@@ -1,4 +1,0 @@
-co/com/choucair/certificacion/test/tasks/Abrir.java
- co.com.choucair.certificacion.test.tasks.Abrir
-co/com/choucair/certificacion/test/userinterface/Home.java
- co.com.choucair.certificacion.test.userinterface.Home

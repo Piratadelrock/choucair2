@@ -8,9 +8,9 @@ import org.junit.runner.RunWith;
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(
         features = "src/test/resources/features/registro.feature",
+        tags = "@registro",
         glue = "co.com.choucair.certificacion.test.stepdefinitions",
-        tags = "@Registro",
         snippets = SnippetType.CAMELCASE)
-public class RegistroRunner {
 
+public class RegistroRunner {
 }
